@@ -22,6 +22,6 @@ Python | Pandas | NumPy | SciPy | StatsModels | Matplotlib | 统计假设检验
 - 建议全量上线优惠券，并持续监控客单价变化
 
 ## 可视化
-![AB Test Results](ab_test_results.png)
+![AB Test Results](scripts/ab_test_results.png)
 
 ## 项目结构
